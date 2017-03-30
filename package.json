@@ -1,0 +1,19 @@
+{
+  "name": "meteor-ci-package",
+  "version": "0.0.1",
+  "description": "describe your module here",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:switch-test/meteor-ci-package.git"
+  },
+  "author": "Brett Terespolsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/switch-test/meteor-ci-package/issues"
+  },
+  "homepage": "http://switch-test.github.io/meteor-ci-package"
+}
